@@ -1,2 +1,1 @@
-# Sample
-Testing successfull
+Devlopment success
