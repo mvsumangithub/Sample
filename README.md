@@ -1,2 +1,1 @@
-# Sample
 Devlopment success
